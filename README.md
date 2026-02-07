@@ -5,12 +5,16 @@ I love learning new technologies, improving my coding skills, and turning ideas 
 
 Skills
 
-Languages & Frameworks: Java, C/C++, HTML, CSS, Javascript, Tailwind
-Tools & Platforms: Visual Studio 2022, VS Code, Eclipse
-Development: Web Development, Mobile Apps, Backend Development, Front-End Development
+Languages & Frameworks:
+Java, C/C++, HTML, CSS, Javascript, Tailwind
+Tools & Platforms: 
+Visual Studio 2022, VS Code, Eclipse
+Development:
+Web Development, Mobile Apps, Backend Development, Front-End Development
 Other: Git, GitHub, Version Control, UI/UX Basics
 
 Fun Facts:
+
 •I love Beach Volleyball
 •Ace of Diamond is my favourite anime
 •I like to edit videos and create motion graphics
