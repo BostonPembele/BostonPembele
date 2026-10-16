@@ -4,7 +4,7 @@ Third-year BSc Software Development student at ATU Galway City, building web, mo
 
 I like turning ideas into working projects, from the database up to the UI.
 
-📫 [LinkedIn](https://www.linkedin.com/in/boston-pembele-0255693aa/) · ✉️ bostonpembele8@gmail.com·
+📫 [LinkedIn](https://www.linkedin.com/in/boston-pembele-0255693aa/) · ✉️ [Email](bostonpembele8@gmail.com)·
 
 ---
 
@@ -27,8 +27,6 @@ I like turning ideas into working projects, from the database up to the UI.
 | [**AniTrack**](https://github.com/BostonPembele/Anitrack) · [Live](https://anitrack-c819b.web.app/home) | MyAnimeList-style PWA for tracking your anime watchlist: search shows, save them and manage your list | Ionic, Angular, TypeScript, Firebase Hosting, GitHub Actions |
 | [**Movie Explorer**](https://github.com/BostonPembele/MovieExplorer) | Search and browse movies using an external API | Angular/Ionic, TypeScript, REST API |
 | [**E-commerce site**](https://github.com/BostonPembele/IT-Professional_Skills-Artifact) | Storefront with product browsing and checkout flow | Html, JavaScript, Css, Live Persistent Storage |
-
-*(Pin these three on your profile too, each with a README and a screenshot.)*
 
 ---
 
