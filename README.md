@@ -1,6 +1,6 @@
 # Hi, I'm Boston 👋
 
-Second-year BSc Software Development student at ATU Galway City, building web, mobile and desktop apps. **Looking for a work placement starting January 2027.**
+Third-year BSc Software Development student at ATU Galway City, building web, mobile and desktop apps. **Looking for a work placement starting January 2027.**
 
 I like turning ideas into working projects, from the database up to the UI.
 
@@ -24,9 +24,9 @@ I like turning ideas into working projects, from the database up to the UI.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**Movie Explorer**](LINK) | Search and browse movies using an external API | Angular/Ionic, TypeScript, REST API |
-| [**E-commerce site**](LINK) | Storefront with product browsing and checkout flow | STACK |
-| [**PWA**](LINK) | One line on what it does | STACK |
+| [**AniTrack**](https://github.com/BostonPembele/Anitrack) · [Live](https://anitrack-c819b.web.app/home) | MyAnimeList-style PWA for tracking your anime watchlist: search shows, save them and manage your list | Ionic, Angular, TypeScript, Firebase Hosting, GitHub Actions |
+| [**Movie Explorer**](https://github.com/BostonPembele/MovieExplorer) | Search and browse movies using an external API | Angular/Ionic, TypeScript, REST API |
+| [**E-commerce site**](https://github.com/BostonPembele/IT-Professional_Skills-Artifact) | Storefront with product browsing and checkout flow | Html, JavaScript, Css, Live Persistent Storage |
 
 *(Pin these three on your profile too, each with a README and a screenshot.)*
 
